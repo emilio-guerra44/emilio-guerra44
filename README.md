@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @emilio-guerra44
-- 👀 I’m interested in learning Cyber Security.
+- 👀 I’m interested in learning to get savvy with Python and the basics of Cyber Security.
 - 🌱 I’m currently learning the basics. 
 - 💞️ I’m looking to collaborate on anything that will help solidify the foundation. 
 - 📫 How to reach me emilio.guerra44@gmail.com 
